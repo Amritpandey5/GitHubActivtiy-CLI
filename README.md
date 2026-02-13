@@ -69,3 +69,5 @@ node index.js github-activity torvalds
 
 ```bash
 git clone https://github.com/your-username/github-activity-cli.git
+```
+Repo Link:https://github.com/Amritpandey5/GitHubActivtiy-CLI
